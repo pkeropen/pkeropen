@@ -1,2 +1,1 @@
-[README.md](https://github.com/pkeropen/pkeropen/files/7074556/README.md)
-
+![pkeropen's GitHub stats](https://github-readme-stats.vercel.app/api?username=pkeropen&show_icons=true&theme=dracula)
