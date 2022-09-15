@@ -1,4 +1,4 @@
-![pkeropen](banner.jpeg)
+<img align="right" width="170px" src="./duck.jpeg">
 
 ### Hi there 👨‍💻
 Here are some quick things about me:
