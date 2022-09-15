@@ -6,7 +6,7 @@ Here are some quick things about me:
 - 💻 I’m currently working on eflycloud.   
 - 🌱 I’m currently learning Golang and Rust.  
 - 💼 I’m looking to collaborate on open source.   
-- 💬 Ask me about Golang and Liunx Kernel.  
+- 💬 Ask me about Golang and Java.  
 - 📫 How to reach me: pkeropen3@163.com
 
 ### Stats
