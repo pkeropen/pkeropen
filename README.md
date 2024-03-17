@@ -3,10 +3,10 @@
 ### Hi there 👨‍💻
 Here are some quick things about me:
 
-- 💻 I’m currently working on eflycloud.   
-- 🌱 I’m currently learning Golang and Rust.  
+- 💻 I’m currently working on vehicle safety.   
+- 🌱 I’m currently learning Golang and C++.  
 - 💼 I’m looking to collaborate on open source.   
-- 💬 Ask me about Golang and Java.  
+- 💬 Ask me about Golang\BigData\MySQL.  
 - 📫 How to reach me: pkeropen3@163.com
 
 ### Stats
